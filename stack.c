@@ -55,7 +55,7 @@ void displayStack(stack *sHead)
     reverseLinkedlist(sHead);
     while (sHead->next != NULL)
     {
-        printf("%d\n", )
+        printf("\n");
     }
 }
 
